@@ -16,5 +16,11 @@
         "key": "pravinx01",
         "expirydate": "01-05-2026",
         "Allowoffline": false
-    }   
+    },
+    { 
+        "device_id": "c5366ed8dfe816e0",
+        "key": "roshan143",
+        "expirydate": "31-12-2028",
+        "Allowoffline": true
+    }  
 ]
